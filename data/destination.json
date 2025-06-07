@@ -1,0 +1,67 @@
+[
+    
+    {
+        "id": "1",
+        "name": "Serene Coastal Retreat",
+        "image": "https://images.unsplash.com/photo-1618946478890-a70e1faa63df?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Unwind at a tranquil coastal retreat with stunning sea views and peaceful ambiance.",
+        "rating": 4.9,
+        "price": "170",
+        "duration": "3",
+        "location": "Amalfi Coast, Italy",
+        "category": "Coast",
+        "Day1": "Arrival and beachside dinner; sunset stroll along the coast.",
+        "Day2": "Boat tour to nearby islands; seafood feast at a local restaurant.",
+        "Day3": "Relaxing spa day and leisure time; departure."
+    },
+    {
+        "id": "2",
+        "name": "Rustic Vineyard Escape",
+        "image": "https://images.unsplash.com/photo-1538587546102-4d5ed7cdb129?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Experience the charm of rural vineyards with wine tastings and scenic views.",
+        "rating": 4.7,
+        "price": "140",
+        "duration": "4",
+        "location": "Tuscany, Italy",
+        "category": "Countryside",
+        "Day1": "Arrival and wine tasting; dinner with vineyard views.",
+        "Day2": "Tour of the vineyard and wine production process; picnic lunch.",
+        "Day3": "Cooking class with local cuisine; evening wine tasting.",
+        "Day4": "Leisurely morning; departure."
+    },
+    {
+        "id": "3",
+        "name": "Tropical Island Adventure",
+        "image": "https://images.unsplash.com/photo-1659490149920-acc942e7dc45?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Explore a lush tropical island with thrilling outdoor adventures and relaxing beaches.",
+        "rating": 4.8,
+        "price": "190",
+        "duration": "5",
+        "location": "Bali, Indonesia",
+        "category": "Island",
+        "Day1": "Arrival and beachfront dinner; evening island tour.",
+        "Day2": "Snorkeling and scuba diving; cultural dance performance.",
+        "Day3": "Hiking through tropical forests; spa treatment.",
+        "Day4": "Visit to local temples; sunset cruise.",
+        "Day5": "Relaxation on the beach; departure."
+    },
+    {
+        "id": "4",
+        "name": "Historic European Journey",
+        "image": "https://images.unsplash.com/photo-1688728609955-ae085ccb9c32?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Step back in time and explore the rich history and architecture of Europe.",
+        "rating": 4.6,
+        "price": "220",
+        "duration": "6",
+        "location": "Paris, France",
+        "category": "Historical",
+        "Day1": "Arrival and check-in; evening cruise on the Seine River.",
+        "Day2": "Explore the Louvre and Notre Dame; dinner in Montmartre.",
+        "Day3": "Visit Versailles Palace and gardens; evening at the Eiffel Tower.",
+        "Day4": "Tour of the Latin Quarter and Sorbonne; shopping on Champs-Élysées.",
+        "Day5": "Day trip to Normandy; return to Paris.",
+        "Day6": "Relaxing morning; departure."
+    }
+    
+    
+]
